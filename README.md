@@ -261,3 +261,7 @@ I will now visualize the results on the test dataset.
 As seen for the first four plots, we can obviously see that the prifit margins increase for Electronics, Clothing and Home & Garden as well as the total profit margin in all. This is visible because the orange lines are above the blue lines. 
 
 Also, from the last four plots, we can see the difference between competitor prices and selling prices (using the old approach), and competitor prices and optimal price (using the new approach). The optimial difference (orange line) is now lower, meaning our pricing is now better in this case.
+
+## 8. Conclusion
+
+We've been able to identify ways to both forecast sales, and also define optimal pricing model to improve profitability.
