@@ -265,3 +265,7 @@ Also, from the last four plots, we can see the difference between competitor pri
 ## 8. Conclusion
 
 We've been able to identify ways to both forecast sales, and also define optimal pricing model to improve profitability.
+### Project Completed by:
+- **Wilson Gitonga**
+  
+  www.wilsongitonga.com
